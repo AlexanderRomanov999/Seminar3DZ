@@ -24,6 +24,8 @@
 
 * *git branch branch_name* - создание ветки;
 
+* *git checkout branch_name* - переключаемся между ветками;
+
 ## Базовые термины третьего семинара
 
 * *Secret* - non info
